@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://painting-contractor-atlanta-ga.netlify.app/sitemap.xml
